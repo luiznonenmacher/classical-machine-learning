@@ -6,7 +6,7 @@ This repository contains some notebooks applying and analysing some classic mach
 
 In the main structure of the repository are the Jupyter Notebook containing the analysis. The data folder contain all the data used in the projects and the utils folder contains some auxiliary code used on the projects.
 
-Below each project is described in more details. Wherever new projects are added, they will be described here.
+Each project is described in more details below. Wherever new projects are added, they will be described here.
 
 ### Projects
 
